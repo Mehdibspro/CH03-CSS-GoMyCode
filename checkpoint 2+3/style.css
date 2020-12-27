@@ -1,0 +1,18 @@
+header li {
+  display: inline;
+}
+body {
+  font-family: Helvetica neue, roboto;
+}
+h1 {
+  font-size: 50px;
+  color: rgb(0, 0, 0);
+}
+h2 {
+  font-size: 25px;
+  color: rgb(0, 58, 216);
+}
+h3 {
+  font-size: 15px;
+  color: rgb(8, 88, 70);
+}
